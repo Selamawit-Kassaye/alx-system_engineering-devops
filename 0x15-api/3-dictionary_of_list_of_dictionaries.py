@@ -7,6 +7,7 @@ Implemented using recursion
 import json
 import requests
 
+
 API = "https://jsonplaceholder.typicode.com"
 """REST API url"""
 
