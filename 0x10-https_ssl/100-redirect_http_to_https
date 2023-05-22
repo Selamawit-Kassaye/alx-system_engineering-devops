@@ -48,5 +48,5 @@ frontend selamye-frontend-https
 
 backend selamye-backend
         balance roundrobin
-        server 125018-web-01 100.26.133.213:80 check
-        server 125018-web-02 52.87.255.175:80 check
+        server 125018-web-01 54.84.82.144:80 check
+        server 125018-web-02 54.237.52.243:80 check
